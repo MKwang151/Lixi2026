@@ -12,14 +12,14 @@ interface Photo {
 
 // Placeholder photos — replace with your real images in /public/photos/
 const photos: Photo[] = [
-  { id: 1, src: "/photos/1.JPG", caption: "Sinh nhật đầu tiên có em tổ chức, anh suýt khóc luôn á 🎂🥹" },
-  { id: 2, src: "/photos/2.JPG", caption: "Crush bao lâu cuối cùng cũng dám tặng quà, tay run như cầy sấy 🎁😅" },
-  { id: 3, src: "/photos/3.JPG", caption: "Năm nay sinh nhật lại có em, anh giàu nhất rồi 🎉💰" },
-  { id: 4, src: "/photos/4.JPG", caption: "365 ngày yêu em — mỗi ngày đều muốn quay lại từ đầu 💍🥰" },
-  { id: 5, src: "/photos/5.JPG", caption: "8/3 đi công viên, em cười một cái là anh quên hết mệt 🌸😍" },
-  { id: 6, src: "/photos/6.JPG", caption: "Countdown cùng nhau, năm mới có em là đủ pháo hoa rồi ✨🎆" },
-  { id: 7, src: "/photos/7.JPG", caption: "Sinh nhật công chúa nhỏ, anh chỉ ước em mãi cười thế này 🎀�" },
-  { id: 8, src: "/photos/8.JPG", caption: "Sinh nhật anh 2026 — món quà lớn nhất vẫn là có em 🎂💝" },
+  { id: 1, src: "/photos/1.jpg", caption: "Sinh nhật đầu tiên có em tổ chức, anh suýt khóc luôn á 🎂🥹" },
+  { id: 2, src: "/photos/2.jpg", caption: "Lần đầu tặng quà cho người mình thương bây lâu 🎁🥰 " },
+  { id: 3, src: "/photos/3.jpg", caption: "Năm nay sinh nhật lại có em, anh giàu nhất rồi 🎉💰" },
+  { id: 4, src: "/photos/4.jpg", caption: "365 ngày yêu em — mỗi ngày đều muốn quay lại từ đầu 💍🥰" },
+  { id: 5, src: "/photos/5.jpg", caption: "8/3 đi công viên, em cười một cái là anh quên hết mệt 🌸😍" },
+  { id: 6, src: "/photos/6.jpg", caption: "Sinh nhật công chúa nhỏ, anh chỉ ước em mãi cười thế này 🎀😍" },
+  { id: 7, src: "/photos/7.jpg", caption: "20/10 lúc anh yếu đuối nhất vẫn có em bên cạnh 🥹❤️" },
+  { id: 8, src: "/photos/8.jpg", caption: "Sinh nhật anh 2026 — món quà lớn nhất vẫn là có em 🎂💝" },
 ];
 
 const DURATION = 5000; // 5 seconds per photo

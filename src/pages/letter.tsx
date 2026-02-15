@@ -314,7 +314,7 @@ export default function LetterPage() {
                 }}
                 transition={{ duration: 3, repeat: Infinity }}
               >
-                Anh của em 💝
+                Anh yêu của em 💝
               </motion.p>
             </motion.div>
           </div>
@@ -372,7 +372,7 @@ export default function LetterPage() {
                   boxShadow: "0 4px 30px rgba(255,193,7,0.2), 0 0 60px rgba(255,193,7,0.1)",
                 }}
               >
-                Nhận Lì Xì Tình Yêu 🧧
+                Nhận Lì Xì Nòe 🧧
                 <ChevronRight className="w-4 h-4" />
               </motion.button>
             </motion.div>
